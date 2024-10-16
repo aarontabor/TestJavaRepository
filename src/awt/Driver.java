@@ -7,6 +7,7 @@ public class Driver {
 		
 		for (int i=0; i<10; i++) {
 			System.out.println(it.getNext());
+			System.out.println('A meaningless change')
 		}
 
 	}
